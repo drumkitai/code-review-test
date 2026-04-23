@@ -1,2 +1,2 @@
-# code-review-test
+# Code Review Tests
 Code used during interviews for the hiring process to gauge a candidate's code review practices
